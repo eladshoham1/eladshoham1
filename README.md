@@ -3,11 +3,11 @@
 </p>
 
 - 👋 Hi, I’m @Elad
-- 👀 I’m interested in Software development, programming on C, C++, Python, Java and TypeScript
-- ☘️ I’m currently learning Bachelor's degree in Computer Science
-- 📫 How to reach me eladshoham1@gmail.com or on LinkedIn Elad Shoham
+- ☘️ B.Sc in Computer Science.
+- 👀 I’m interested in Software development, programming on Python, JavaScript, TypeScript, Java, C and C++.
+- 📫 How to reach me eladshoham1@gmail.com or on LinkedIn Elad Shoham.
 
-Skills: C / C++ / Python / Java / TypeScript
+Skills: Python / JavaScript / TypeScript / Java / C / C++
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eladshoham1)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eladshoham1&show_icons=true)  
